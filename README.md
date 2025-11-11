@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=shark&color=019fef&height=180&text=&animation=blink&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 보안공부하는 노용균입니다 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 보안공부 기록 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 청주대 디지털보안학과 2024.03.02 ~</li>개인 프로젝트 : 시큐어 코딩 취약점 검증 챗봇 </li>팀 프로젝트 : Dojacat </div> 
     </div>
     <div style="text-align: left;">
