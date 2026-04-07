@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "[U-15] World Writable 파일 점검을 시작합니다."
+FIND_WW=$(find / -xdev -type f -perm -2 -ls 2>/dev/null)
+
+if [ -z "$FIND_WW" ]; then
+    echo "[양호] World Writable 파일이 존재하지 않습니다."
+else
+    echo "[취약] World Writable 파일이 발견되었습니다."
+    echo "$FIND_WW"
+fi
+
+
